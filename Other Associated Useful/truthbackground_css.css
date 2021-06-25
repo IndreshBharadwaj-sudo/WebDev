@@ -1,0 +1,12 @@
+section{
+    margin: 0 auto;
+    /* background-color: violet; */
+    background: center/cover url("https://images.unsplash.com/photo-1612372992697-81c95501d0d1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+    width: 80%;
+    height: 500px;
+}
+h1{
+    font-size: 90px;
+    color: rgb(221, 160, 221,0.7);
+    text-align: center;
+}

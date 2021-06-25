@@ -1,0 +1,14 @@
+body{
+    font-family: 'Ranchers', cursive;
+}
+nav{
+    border-bottom: 2px solid grey ;
+    margin-left: 1.6666%;
+    width: 30%;
+    padding: 1.2em 0;
+    font-size: 1.5em;
+}
+img{
+    width: 30%;
+    margin: 1.6666%;
+}

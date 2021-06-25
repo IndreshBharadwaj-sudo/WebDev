@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+}
+h1{
+    background-color: darksalmon;
+    width: 200px;
+}
+span{
+    margin-left: 30px;
+}
+div{
+    width: 200px;
+    height: 400px;
+    background-color: darksalmon;
+}
+#one{
+border:3px solid crimson;
+border-left: 6px solid crimson;
+box-sizing: border-box;
+margin-left: 100px;
+margin-bottom: 50px;
+}
+input[type="radio"]:checked{
+color: greenyellow;
+}
+#two{
+    border:4px double dimgrey;
+    margin: 200px;
+}
+#three{
+    border:4px dotted dimgrey;
+    margin-bottom: 100px;
+}
+#four{
+    border:4px double dimgrey;
+    border-radius: 10%;
+}
+::selection{
+    background-color: greenyellow;
+}
+button:hover{
+background-color: hotpink;
+padding: 10px;
+}
+button:active{
+    background-color: indianred;
+    padding: 20px;
+}
+button{
+    padding: 10px;
+}
